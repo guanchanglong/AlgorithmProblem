@@ -8,8 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5078b5ea-2d72-44ac-87b3-c1e565dd496e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/简单题/二叉树的中序遍历/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/简单题/相同的树/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/简单题/对称二叉树/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/简单题/对称二叉树/自己写的1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/简单题/对称二叉树/自己写的2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,8 +28,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/简单题/二叉树的中序遍历/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="57" column="9" lean-forward="true" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+            <state relative-caret-position="176">
+              <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -37,10 +38,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/简单题/对称二叉树/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="623">
+              <caret line="84" column="16" lean-forward="true" selection-start-line="84" selection-start-column="16" selection-end-line="84" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2130#2131#0" expanded="true" />
+                <element signature="e#2170#2171#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/简单题/相同的树/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="44" selection-start-line="44" selection-end-line="57" selection-end-column="1" />
+            <state relative-caret-position="161">
+              <caret line="46" selection-start-line="46" selection-end-line="56" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -68,6 +83,7 @@
         <option value="$PROJECT_DIR$/src/main/java/leetcode/简单题/合并两个有序数组/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/简单题/二叉树的中序遍历/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/简单题/相同的树/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/简单题/对称二叉树/Test.java" />
       </list>
     </option>
   </component>
@@ -87,7 +103,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="x" value="1920" />
-    <option name="y" value="-1" />
+    <option name="y" value="-2" />
     <option name="width" value="2560" />
     <option name="height" value="1440" />
   </component>
@@ -99,6 +115,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -141,11 +158,51 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="简单题" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="demo1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="简单题" type="462c0819:PsiDirectoryNode" />
+              <item name="二叉树的中序遍历" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="简单题" type="462c0819:PsiDirectoryNode" />
+              <item name="对称二叉树" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="简单题" type="462c0819:PsiDirectoryNode" />
+              <item name="相同的树" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="简单题" type="462c0819:PsiDirectoryNode" />
+              <item name="相同的树" type="462c0819:PsiDirectoryNode" />
+              <item name="Test.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -156,8 +213,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1641865414785" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../日常学习代码/Java多线程学习/demo2" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1642473139976" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../使用SpringBoot、JPA和Thymeleaf开发的个人博客" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -181,7 +238,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.Test (1)">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.简单题.实现Sqrt.Main" />
       <module name="demo1" />
@@ -195,12 +252,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.简单题.删除排序链表中的重复元素.Test" />
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.简单题.对称二叉树.Test" />
       <module name="demo1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.简单题.删除排序链表中的重复元素.*" />
+          <option name="PATTERN" value="leetcode.简单题.对称二叉树.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,11 +306,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test (4)" />
         <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Test (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -300,7 +357,8 @@
       <workItem from="1641628822118" duration="484000" />
       <workItem from="1641771476966" duration="5262000" />
       <workItem from="1641796292071" duration="9000" />
-      <workItem from="1641859104367" duration="6226000" />
+      <workItem from="1641859104367" duration="7024000" />
+      <workItem from="1642471000512" duration="2225000" />
     </task>
     <task id="LOCAL-00001" summary="两道算法题">
       <created>1639400998361</created>
@@ -379,17 +437,23 @@
       <option name="project" value="LOCAL" />
       <updated>1641776501627</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="日常算法题">
+      <created>1641865532539</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1641865532539</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29263000" />
+    <option name="totallyTimeSpent" value="32286000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-368" width="2048" height="1152" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20608783" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20808384" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -538,6 +602,12 @@
           <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/简单题/对称二叉树/Test.java</url>
+          <line>126</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -616,8 +686,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/简单题/二叉树的中序遍历/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="57" column="9" lean-forward="true" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+        <state relative-caret-position="176">
+          <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -626,8 +696,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/简单题/相同的树/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="44" selection-start-line="44" selection-end-line="57" selection-end-column="1" />
+        <state relative-caret-position="161">
+          <caret line="46" selection-start-line="46" selection-end-line="56" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/简单题/对称二叉树/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="84" column="16" lean-forward="true" selection-start-line="84" selection-start-column="16" selection-end-line="84" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2130#2131#0" expanded="true" />
+            <element signature="e#2170#2171#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
