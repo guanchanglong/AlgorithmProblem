@@ -8,9 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5078b5ea-2d72-44ac-87b3-c1e565dd496e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/简单题/对称二叉树/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/简单题/对称二叉树/自己写的1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/简单题/对称二叉树/自己写的2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/简单题/二叉树的最大深度/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,28 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/简单题/二叉树的中序遍历/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/简单题/对称二叉树/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/简单题/二叉树的最大深度/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="623">
-              <caret line="84" column="16" lean-forward="true" selection-start-line="84" selection-start-column="16" selection-end-line="84" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2130#2131#0" expanded="true" />
-                <element signature="e#2170#2171#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="396">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -54,8 +35,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/简单题/相同的树/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="46" selection-start-line="46" selection-end-line="56" selection-end-column="5" />
+            <state relative-caret-position="1078">
+              <caret line="49" column="42" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -84,6 +65,7 @@
         <option value="$PROJECT_DIR$/src/main/java/leetcode/简单题/二叉树的中序遍历/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/简单题/相同的树/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/leetcode/简单题/对称二叉树/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcode/简单题/二叉树的最大深度/Test.java" />
       </list>
     </option>
   </component>
@@ -103,7 +85,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="x" value="1920" />
-    <option name="y" value="-2" />
+    <option name="y" value="-3" />
     <option name="width" value="2560" />
     <option name="height" value="1440" />
   </component>
@@ -114,8 +96,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,7 +146,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="简单题" type="462c0819:PsiDirectoryNode" />
-              <item name="二叉树的中序遍历" type="462c0819:PsiDirectoryNode" />
+              <item name="二叉树的最大深度" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo1" type="b2602c69:ProjectViewProjectNode" />
@@ -176,7 +156,8 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="简单题" type="462c0819:PsiDirectoryNode" />
-              <item name="对称二叉树" type="462c0819:PsiDirectoryNode" />
+              <item name="二叉树的最大深度" type="462c0819:PsiDirectoryNode" />
+              <item name="Test.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="demo1" type="b2602c69:ProjectViewProjectNode" />
@@ -203,6 +184,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -213,8 +196,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1642473139976" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../使用SpringBoot、JPA和Thymeleaf开发的个人博客" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1642588590161" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../电子教室/StudentClient" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -238,13 +221,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.简单题.实现Sqrt.Main" />
+  <component name="RunManager" selected="Application.Test (2)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.简单题.对称二叉树.Test" />
       <module name="demo1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.简单题.实现Sqrt.*" />
+          <option name="PATTERN" value="leetcode.简单题.对称二叉树.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,12 +235,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.简单题.对称二叉树.Test" />
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.简单题.二叉树的最大深度.Test" />
       <module name="demo1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.简单题.对称二叉树.*" />
+          <option name="PATTERN" value="leetcode.简单题.二叉树的最大深度.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -306,11 +289,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test (4)" />
         <item itemvalue="Application.Test (3)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -358,7 +341,10 @@
       <workItem from="1641771476966" duration="5262000" />
       <workItem from="1641796292071" duration="9000" />
       <workItem from="1641859104367" duration="7024000" />
-      <workItem from="1642471000512" duration="2225000" />
+      <workItem from="1642471000512" duration="3033000" />
+      <workItem from="1642490539883" duration="23000" />
+      <workItem from="1642551916278" duration="744000" />
+      <workItem from="1642588243034" duration="342000" />
     </task>
     <task id="LOCAL-00001" summary="两道算法题">
       <created>1639400998361</created>
@@ -444,16 +430,24 @@
       <option name="project" value="LOCAL" />
       <updated>1641865532539</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="日常算法题">
+      <created>1642473252505</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1642473252505</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32286000" />
+    <option name="totallyTimeSpent" value="34203000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-368" width="2048" height="1152" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20808384" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21407185" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -462,7 +456,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29282296" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29282296" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.17799044" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -686,30 +680,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/简单题/二叉树的中序遍历/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+        <state relative-caret-position="858">
+          <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/简单题/相同的树/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="46" selection-start-line="46" selection-end-line="56" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/简单题/对称二叉树/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="623">
-          <caret line="84" column="16" lean-forward="true" selection-start-line="84" selection-start-column="16" selection-end-line="84" selection-end-column="16" />
+        <state relative-caret-position="535">
+          <caret line="80" column="3" selection-start-line="80" selection-start-column="3" selection-end-line="80" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2130#2131#0" expanded="true" />
-            <element signature="e#2170#2171#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/简单题/二叉树的最大深度/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcode/简单题/相同的树/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="49" column="42" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
         </state>
       </provider>
     </entry>
